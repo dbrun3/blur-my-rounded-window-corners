@@ -1,6 +1,6 @@
 # Blur My Rounded Window Corners
 
-Patches for the [blur-my-shell](https://github.com/aunetx/blur-my-shell) and [rounded-window-corners](https://github.com/flexagoon/rounded-window-corners) gnome extensions and the Gnome Shell by @kancko (shell and original bms patch), @MeguMario (ui for blur radius controller) and @Shneegans (bms compatibility for rounded corners) with a small bug fix by myself.
+Patches for the [blur-my-shell](https://github.com/aunetx/blur-my-shell) and [rounded-window-corners](https://github.com/flexagoon/rounded-window-corners) gnome extensions and the Gnome Shell by [@kancko](https://github.com/kancko) (shell and original bms patch), [@MeguMario](https://github.com/MeguMario) (ui for blur radius controller) and [@Shneegans](https://github.com/Schneegans/) (bms compatibility for rounded corners) with a small bug fix by myself.
 
 ![Screenshot](media/image.png)
 
