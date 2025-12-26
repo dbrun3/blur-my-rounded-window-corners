@@ -6,4 +6,4 @@ Patches for the [blur-my-shell](https://github.com/aunetx/blur-my-shell) and [ro
 
 ![Screenshot](media/image2.png)
 
-I'll also be including the prebuilt extensions as a the releases which I'll be maintaining forks for each of the patches for [blur-my-shell](https://github.com/dbrun3/blur-my-shell) and [rounded-window-corners](https://github.com/dbrun3/rounded-window-corners) alongside the .deb files for the ubuntu version of the gnome-shell for anyone who just wants to install and go right away.
+I'll also be including the prebuilt extensions as a release which I'll be maintaining each fork for [blur-my-shell](https://github.com/dbrun3/blur-my-shell) and [rounded-window-corners](https://github.com/dbrun3/rounded-window-corners) alongside the .deb files for the ubuntu version of the gnome-shell for anyone who just wants to install and go right away.
